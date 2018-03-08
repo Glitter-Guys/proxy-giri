@@ -49,4 +49,4 @@ class App extends React.Component {
 }
 
 window.Details = App;
-window.GIReactDOM = ReactDOM;
+window.ReactDOM = ReactDOM;
